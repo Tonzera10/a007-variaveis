@@ -1,5 +1,5 @@
-let a = 10;
-let b = 20;
+let a = Number(prompt("Digite o valor de a:"));
+let b = Number(prompt("Digite o valor de b:"));
 let c;
 
 c = a;
